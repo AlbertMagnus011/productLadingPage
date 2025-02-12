@@ -12,8 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O
-
 - [Acesse o projeto finalizado, online](https://albertmagnus011.github.io/productLadingPage/)
 
 ---
